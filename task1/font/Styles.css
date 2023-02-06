@@ -2,8 +2,8 @@ body{
     background: whitesmoke;
 }
 h1{
-    color: blueviolet;
-    font-family: 'Courier New';
+    color: #8a2be2;
+    font-family: 'veranda';
 }
 h2{
     color: gold;
@@ -14,22 +14,20 @@ h3{
     font-family: 'Times New Roman';
 }
 h4{
-    color: steelblue;
+    color: blue;
     font-family: inherit;
 }
 h5{
-    color: orangered;
+    color: orange;
     font-family:cursive;
 }
 h6{
-    color: turquoise;
+    color: goldenrod;
     font-family:Georgia;
 }
 h7{
     color:palevioletred;
     font-family:Lucida;
 }
-h8{
-    color:seagreen;
-    font-family: Franklin Gothic Medium;
-}
+
+   
