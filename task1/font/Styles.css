@@ -1,5 +1,5 @@
 body{
-    background: black;
+    background: whitesmoke;
 }
 h1{
     color: blueviolet;
@@ -24,4 +24,12 @@ h5{
 h6{
     color: turquoise;
     font-family:Georgia;
+}
+h7{
+    color:palevioletred;
+    font-family:Lucida;
+}
+h8{
+    color:seagreen;
+    font-family: Franklin Gothic Medium;
 }
