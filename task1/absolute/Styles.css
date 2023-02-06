@@ -1,0 +1,27 @@
+body{
+    background: white;
+}
+h2{
+    color: brown;
+    text-align: center;
+    font-family: Cambria,Cochin,serif;
+}
+img{
+    position: absolute;
+    top: 70px;
+    right: 10px;
+}
+.div1{
+    display:flex;
+    margin-bottom: -30px;
+    color:palevioletred;
+}
+.div11{
+    width:80%;  
+}
+.div12{
+    width: 20%;
+}
+.div2{
+    color:palevioletred; 
+}
