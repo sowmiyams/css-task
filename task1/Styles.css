@@ -1,5 +1,5 @@
 .colorbox {
-    background-color: aqua;
+    background-color: white;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 15px;
@@ -13,63 +13,63 @@
       margin-bottom: 20px;
     }
   .div11 {
-    background: blue;
+    background: red;
     width: 30%;
     margin-right: 20px;
   }
   .div12 {
-    background: green;
+    background: blue;
     width: 70%;
   }
   .div2 {
       height: 90px;
-      background:yellowgreen;
+      background:rgb(205, 177, 50);
       margin-bottom: 20px;
     }
   
     .div31 {
-      background:purple;
+      background:green;
       width: 33%;
       margin-right: 20px;
     }
     .div32 {
-      background: red;
+      background: rgb(128, 0, 70);
       width: 34%;
       margin-right: 20px;
     }
     .div33 {
       width:33%;
-      background:peru;
+      background:rgb(98, 0, 128);
     }
     .div41 {
-      background:mediumvioletred;
+      background:orangered;
       width: 50%;
       margin-right: 20px;
     }
     .div42 {
       width:50%;
-      background:orange;
+      background:yellowgreen;
     }
     .div51 {
-      background: khaki;
+      background: rgba(0, 128, 6, 0.781);
       width: 25%;
       margin-right: 20px;
     }
     .div52 {
-      background:black;
+      background:rgb(0, 174, 255);
       width: 25%;
       margin-right: 20px;
     }
     .div53 {
-      background:pink;
+      background:rgb(255, 192, 192);
       width: 25%;
       margin-right: 20px;
     }
     .div54 {
       width:25%;
-      background:darkcyan;
+      background:rgb(0, 21, 139);
     }
     .div6 {
       height: 20px;
-      background:salmon;
+      background:brown;
     }
