@@ -1,0 +1,75 @@
+.colorbox {
+    background-color: aqua;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+  .div1, .div3, .div4, .div5 {
+      height: 90px;
+      display: flex;
+      margin-bottom: 20px;
+    }
+  .div11 {
+    background: blue;
+    width: 30%;
+    margin-right: 20px;
+  }
+  .div12 {
+    background: green;
+    width: 70%;
+  }
+  .div2 {
+      height: 90px;
+      background:yellowgreen;
+      margin-bottom: 20px;
+    }
+  
+    .div31 {
+      background:purple;
+      width: 33%;
+      margin-right: 20px;
+    }
+    .div32 {
+      background: red;
+      width: 34%;
+      margin-right: 20px;
+    }
+    .div33 {
+      width:33%;
+      background:peru;
+    }
+    .div41 {
+      background:mediumvioletred;
+      width: 50%;
+      margin-right: 20px;
+    }
+    .div42 {
+      width:50%;
+      background:orange;
+    }
+    .div51 {
+      background: khaki;
+      width: 25%;
+      margin-right: 20px;
+    }
+    .div52 {
+      background:black;
+      width: 25%;
+      margin-right: 20px;
+    }
+    .div53 {
+      background:pink;
+      width: 25%;
+      margin-right: 20px;
+    }
+    .div54 {
+      width:25%;
+      background:darkcyan;
+    }
+    .div6 {
+      height: 20px;
+      background:salmon;
+    }
