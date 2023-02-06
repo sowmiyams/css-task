@@ -1,7 +1,7 @@
 body{
     background: white;
 }
-h2{
+h1{
     color: brown;
     text-align: center;
     font-family: Cambria,Cochin,serif;
@@ -11,17 +11,17 @@ img{
     top: 70px;
     right: 10px;
 }
-.div1{
+.first{
     display:flex;
     margin-bottom: -30px;
     color:palevioletred;
 }
-.div11{
+.text{
     width:80%;  
 }
-.div12{
+.image{
     width: 20%;
 }
-.div2{
+.second{
     color:palevioletred; 
 }
