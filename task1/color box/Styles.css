@@ -7,69 +7,69 @@
     margin-left: 300px;
     margin-right: 300px;
   }
-  .div1, .div3, .div4, .div5 {
+  .color1, .color3, .color4, .color5 {
       height: 90px;
       display: flex;
       margin-bottom: 20px;
     }
-  .div11 {
+  .color11 {
     background: red;
     width: 30%;
     margin-right: 20px;
   }
-  .div12 {
+  .color12 {
     background: blue;
     width: 70%;
   }
-  .div2 {
+  .color2 {
       height: 90px;
       background:rgb(205, 177, 50);
       margin-bottom: 20px;
     }
   
-    .div31 {
+    .color31 {
       background:green;
       width: 33%;
       margin-right: 20px;
     }
-    .div32 {
+    .color32 {
       background: rgb(128, 0, 70);
       width: 34%;
       margin-right: 20px;
     }
-    .div33 {
+    .color33 {
       width:33%;
       background:rgb(98, 0, 128);
     }
-    .div41 {
+    .color41 {
       background:orangered;
       width: 50%;
       margin-right: 20px;
     }
-    .div42 {
+    .color42 {
       width:50%;
       background:yellowgreen;
     }
-    .div51 {
+    .color51 {
       background: rgba(0, 128, 6, 0.781);
       width: 25%;
       margin-right: 20px;
     }
-    .div52 {
+    .color52 {
       background:rgb(0, 174, 255);
       width: 25%;
       margin-right: 20px;
     }
-    .div53 {
+    .color53 {
       background:rgb(255, 192, 192);
       width: 25%;
       margin-right: 20px;
     }
-    .div54 {
+    .color54 {
       width:25%;
       background:rgb(0, 21, 139);
     }
-    .div6 {
+    .color6 {
       height: 20px;
       background:brown;
     }
