@@ -1,29 +1,54 @@
 body{
     background: whitesmoke;
 }
-h1,h2{
+@font-face {
+    font-family: DarlingtonDemo;
+    src: url(./fonts/DarlingtonDemo-z8xjG.ttf);
+}
+h1{
+    color:brown;
+    font-family:DarlingtonDemo;  
+}
+@font-face {
+    font-family: ;
+    src: url(./fonts/Elisha\ Script\ -\ TTF.ttf);
+}
+h2{
     color: gold;
-    font-family: 'Franklin Gothic Medium';
+    font-family: Elisha;
+}
+@font-face {
+    font-family:AfternoonWalkDemoRegular ;
+    src: url(./fonts/AfternoonWalkDemoRegular.ttf);
 }
 h3{
     color: brown;
-    font-family: 'Times New Roman';
+    font-family: AfternoonWalkDemoRegular;
+}
+@font-face {
+    font-family: Cute Spring TTF Personal;
+    src: url(./fonts/Cute\ Spring\ TTF\ Personal.ttf);
 }
 h4{
     color: blue;
-    font-family: inherit;
+    font-family:Cute Spring TTF Personal ;
+}
+@font-face {
+    font-family: Filmgraph DEMO;
+    src: url(./fonts/Filmgraph\ DEMO.ttf);
 }
 h5{
     color: orange;
-    font-family:cursive;
+    font-family:Filmgraph DEMO;
+}
+@font-face {
+    font-family:Delavista ;
+    src: url(./fonts/Delavista.ttf);
 }
 h6{
     color: goldenrod;
-    font-family:Georgia;
+    font-family:Delavista;
 }
-h7{
-    color:palevioletred;
-    font-family:Lucida;
-}
+
 
    
