@@ -1,11 +1,7 @@
 .colorbox {
-    background-color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    margin-left: 300px;
-    margin-right: 300px;
+    
+    padding:15px;
+    
   }
   .color1, .color3, .color4, .color5 {
       height: 90px;
@@ -22,7 +18,7 @@
     width: 70%;
   }
   .color2 {
-      height: 90px;
+      height: 150px;
       background:rgb(205, 177, 50);
       margin-bottom: 20px;
     }
@@ -70,6 +66,6 @@
       background:rgb(0, 21, 139);
     }
     .color6 {
-      height: 20px;
+      height: 30px;
       background:brown;
     }

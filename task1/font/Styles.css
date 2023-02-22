@@ -1,11 +1,7 @@
 body{
     background: whitesmoke;
 }
-h1{
-    color: #8a2be2;
-    font-family: 'veranda';
-}
-h2{
+h1,h2{
     color: gold;
     font-family: 'Franklin Gothic Medium';
 }
